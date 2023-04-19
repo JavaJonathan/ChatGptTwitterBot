@@ -7,7 +7,7 @@ let username;
 let password;
 let tweet = "";
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "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", //no longer valid
 });
 let gptPrompt = "";
 let gptImageUrl = "";
